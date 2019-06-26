@@ -2,8 +2,6 @@ import React from 'react';
 import Kits from './_starter-kits.json';
 import Link from '../Link/Link';
 
-import './StarterKitsTable.scss';
-
 const StarterKitsTable = props => (
   <table className="starter_table-root">
     <tb className="table-body">
